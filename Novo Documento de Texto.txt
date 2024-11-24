@@ -1,1 +1,4 @@
 aaa
+
+
+Merge e operação de junção de 2 branches que raconcilia as varias alterações feitas numa coleção de ficheiros pode ser manual e automatico
