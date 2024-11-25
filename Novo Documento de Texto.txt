@@ -5,4 +5,4 @@ Merge e operação de junção de 2 branches que reconcilia as varias alteraçõ
 
 git status
 
-não respondi a ultima
+não respondi a ultima me reciuso
